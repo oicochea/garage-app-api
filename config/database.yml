@@ -92,9 +92,5 @@ test:
 #
 production:
   <<: *default
-  database: garage_app_api_production
-  username: test5
-  password: test5
-  host: localhost
-  port: 5432
+  url: <%= ENV['MY_APP_DATABASE_URL'] %>
 
