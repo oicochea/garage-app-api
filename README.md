@@ -1,9 +1,7 @@
 # README
 
 
-
-
-ails backend: Serve a JSON API with all CRUD operations available across your models. The Rails API must be deployed online via Heroku.
+Rails backend: Serve a JSON API with all CRUD operations available across your models. The Rails API must be deployed online via Heroku.
 Must have at least one model with full CRUD
 * ...
 
